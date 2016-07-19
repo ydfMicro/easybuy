@@ -39,7 +39,7 @@ public class EYModifyNewsController extends HttpServlet {
     }
 
     /**
-     * 添加新闻
+     * 新增新闻
      * @param request
      * @param response
      * @throws ServletException
